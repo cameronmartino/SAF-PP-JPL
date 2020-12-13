@@ -1,0 +1,4 @@
+	sample size	number of groups	test statistic	p-value
+weighted UniFrac	230	11	2.781624951194424	0.001
+unweighted UniFrac	230	11	1.9335884943499262	0.001
+Aitchison	230	11	2.710267622722128	0.001
